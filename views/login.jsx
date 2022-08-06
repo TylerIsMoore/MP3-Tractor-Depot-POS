@@ -1,16 +1,14 @@
 const React = require('react')
+const Def = require('./default')
 
-function Def (html) {
+function login () {
     return (
-        <html>
-            <head>
-                <title>Default</title>
-            </head>
-            <body>
-                {html.children}
-            </body>
-        </html>
+        <Def>
+            <main>
+                <h1>LOGIN</h1>
+            </main>
+        </Def>
     )
 }
 
-module.exports = Def
+module.exports = login
