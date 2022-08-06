@@ -22,6 +22,7 @@ Tyler Moore's final Milestone Project, in which he attempts to recreate a retail
 | name | String |
 | phone | Number |
 | email | String |
+| loyalty | Number |
 
 **items**
 
@@ -31,4 +32,5 @@ Tyler Moore's final Milestone Project, in which he attempts to recreate a retail
 | desc | string |
 | sku | Number |
 | upc | Number |
+| price | Number |
 | qty | Number |
