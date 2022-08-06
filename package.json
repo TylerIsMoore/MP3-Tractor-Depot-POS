@@ -1,0 +1,23 @@
+{
+  "name": "MP3-Tractor-Depot-POS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerIsMoore/MP3-Tractor-Depot-POS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerIsMoore/MP3-Tractor-Depot-POS/issues"
+  },
+  "homepage": "https://github.com/TylerIsMoore/MP3-Tractor-Depot-POS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
