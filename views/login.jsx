@@ -1,10 +1,10 @@
 const React = require('react')
 
-function log (html) {
+function Def (html) {
     return (
         <html>
             <head>
-                <title>Login</title>
+                <title>Default</title>
             </head>
             <body>
                 {html.children}
@@ -13,4 +13,4 @@ function log (html) {
     )
 }
 
-module.exports = log
+module.exports = Def
